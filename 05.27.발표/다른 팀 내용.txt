@@ -1,0 +1,75 @@
+1등(0.92708): https://dacon.io/competitions/official/235894/codeshare/4970?page=1&dtype=recent
+-모델: EfficientNet-B6, ResNext
+-기법: 앙상블(hard voting), augmentation(45도 회전, flip) 적용, arcFace Loss, label smoothing, one-class based self-supervised learning
+-학습순서: ????????????????????
+★Feature 옆에 숫자 무슨 의미인지 모르겠음
+
+2등(0.91857): https://dacon.io/competitions/official/235894/codeshare/4960?page=2&dtype=recent
+-모델: EfficientNet-V2-L(pretrained ImageNet-21k), EfficientNet-V2-L(pretrained ImageNet-1k)
+-기법: Ensemble(5-fold, soft voting-average), Loss Weighted(5:1), post-processing(debias)
+-Augmentation: rotate 90, rotate 45, flip, transpose
+
+3등(0.90494): https://dacon.io/competitions/official/235894/codeshare/4973?page=1&dtype=recent
+-모델: EfficientNet-B1, EfficientNet-B2
+-기법: Ensemble(5-fold, soft voting-softmax후 average), 2-Stage, post-processing(debias, 성능이 낮은 class 재학습 또는 단일 모델로 개별 학습)
+-Augmentation: rotate0, 90, 180, 270
+
+5등(0.89376): https://dacon.io/competitions/official/235894/codeshare/4946?page=2&dtype=recent
+-모델: RegNet, 
+-기법: Ensemble(5-fold), Focal Loss, Early Stopping
+-Augmentation: random crop, rotate, flip - Bad에만 적용
+
+6등(0.89246): https://dacon.io/competitions/official/235894/codeshare/4968?page=1&dtype=recent
+-모델: EfficientNet-B7
+-기법: Ensemble(5-fold, 상위 2개), Cosine Annealing Warm Up Restart, Label Smoothing, early stopping
+-Augmentation: Sobel filter, TTA(Horizontal Flip, Vertical Flip, Rotate0/90/180/270)
+
+7등(0.8906): https://dacon.io/competitions/official/235894/codeshare/4967?page=2&dtype=recent
+-모델: ConvNext Large, EfficientNet-B5
+-기법: Ensemble(ConvNext 1개 + EfficientNet-B5 5개(Ensemble 결과물)), Label Smoothing, hierarchy loss
+-Augmentation: Affine, Color Jitter, CLAHE
+
+8등(0.88954): https://dacon.io/competitions/official/235894/codeshare/4957?page=2&dtype=recent
+-모델: EfficientNet-B7
+-기법: Ensemble(5-fold)
+-Augmentation: Horizontal Flip, Vertical Flip, Rotate
+
+9등(0.88674): https://dacon.io/competitions/official/235894/codeshare/4959?page=2&dtype=recent
+-모델: EfficientNet-B4
+-기법:Ensemble(5-fold, EfficientNet-B4 5개 Ensemble + EfficientNet-B4 with Mixup), Mixup
+-Augmentation: Flip, Rotate, RandomCrop, 
+
+11등(0.88305): https://dacon.io/competitions/official/235894/codeshare/4975?page=1&dtype=recent
+-모델: EfficientNet-B6, EfficientNet-B7
+-기법: Focal Loss, Mixup, Label Smoothing, Cutmix
+-Augmentation: Transpose, Resize, Horizontal Flip, Vertical Flip, ShiftScaleRotate, Normalize
+
+12등(0.88049): https://dacon.io/competitions/official/235894/codeshare/4964?page=1&dtype=recent
+-모델: EfficientNet-B3, Wide_Resnet50_2
+-기법: Ensemble, 
+-Augmentation: TTA, RandomBrightnessContrast, RandomGamma, ShiftScaleRotate, Transpose, RandomRotate90, MultiplicativeNoise, GaussNoise, ISONoise, HueSaturationValue, RGBShift, ElasticTransform(), GridDistortion
+
+16등(0.87786): https://dacon.io/competitions/official/235894/codeshare/4981?page=1&dtype=recent
+-모델: EfficientNet-B7-ns
+-기법: Label Smoothing, Cutmix, 
+-Augmentation: Resize, CLAHE, RandomBrightnessContrast, ColorJitter, RGBShift, RandomSnow, HorizontalFlip, VerticalFlip, RandomResizedCrop, ShiftScaleRotate, Rotate, RandomRotate90, Normalize
+
+46등(0.84233): https://dacon.io/competitions/official/235894/codeshare/4971?page=1&dtype=recent
+-모델: EfficientNet-B3 
+-기법:
+-Augmentation: Rotate 90/270, Horizontal Flip, Vertical Flip, Both Flip
+
+66등: https://dacon.io/competitions/official/235894/codeshare/4953?page=1&dtype=recent
+-모델: swin_tiny_patch4_window7_224, efficientnet-b2, efficientnet-b0, mixnet_s
+-기법: Ensemble, Loss Weighted
+-Augmentation: TTA, H/V Flip, Rotate, ShiftScaleRotate
+
+68등(0.82092): https://dacon.io/competitions/official/235894/codeshare/4972?page=1&dtype=recent
+-모델: EfficientNet-B4
+-기법: Loss Weighted, Ensemble(5-fold, 상위 3개만), Early Stopping
+-Augmentation:  
+
+Baseline 제공(0.6806): https://dacon.io/competitions/official/235894/codeshare/4969?page=1&dtype=recent
+-모델: resnetv2_101x1_bitm
+-기법: 
+-Augmentation: 
