@@ -52,3 +52,13 @@ DACON에서 주관하는 Anomaly Detection 이상치 탐지 프로젝트에 참�
 ![image](https://user-images.githubusercontent.com/93433004/194214817-9cd324a6-a4c1-45b8-b85f-979b18cfb24c.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214824-6ea38b45-6456-4df4-8991-65e20d47e570.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214837-210d5f73-f7bb-403a-95cb-f783f3a9e5da.png)
+
+# Augmentation
+제가 사용한 Augmentation의 이미지 자료입니다.
+![image](https://user-images.githubusercontent.com/93433004/194215138-4d868e65-80cf-4f38-a547-553e87dc9e39.png)
+![image](https://user-images.githubusercontent.com/93433004/194215160-82bb2e63-8e4f-46e4-8809-7e50ac6d96f0.png)
+![image](https://user-images.githubusercontent.com/93433004/194215183-ae8a7a95-5879-40af-934b-eb114fb017cd.png)
+
+# 3-Stage 모델
+중간보고서 작성 때까지 핵심 구조로 설정했던 3-Stage 모델의 이미지 자료입니다.
+![image](https://user-images.githubusercontent.com/93433004/194215364-64a62ac4-def7-4945-9d5f-0b3181b3a382.png)
