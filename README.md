@@ -15,7 +15,7 @@ DACON에서 주관하는 Anomaly Detection 이상치 탐지 프로젝트에 참�
 
 대회에서 사용된 MVTec AD 데이터셋을 사진으로 정리했습니다.
 
-## 제품의 Class 별 제품의 Label 자료
+## ①제품의 Class 별 제품의 Label 자료
 ![image](https://user-images.githubusercontent.com/93433004/194214175-f6c5ab0d-e987-4841-a917-7c370460db89.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214278-bc84e267-83bf-4e3d-a161-4482364373c4.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214290-1339845a-a6e9-45a2-ae56-ad4498ce46a0.png)
@@ -32,4 +32,19 @@ DACON에서 주관하는 Anomaly Detection 이상치 탐지 프로젝트에 참�
 ![image](https://user-images.githubusercontent.com/93433004/194214522-1f93bde1-fb29-43eb-aafb-24a41a3cd51b.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214534-2991c518-7d63-4907-a50c-95bae5b2160a.png)
 
-## 제품의 Class 별 제품의 State 비율
+## ②제품의 Class 별 제품의 State 비율
+![image](https://user-images.githubusercontent.com/93433004/194214705-79512d52-b9b9-4dbe-9b8d-234861a803c2.png)
+![image](https://user-images.githubusercontent.com/93433004/194214719-b3911d1c-1797-43a2-bbe9-3a65a2e068f2.png)
+![image](https://user-images.githubusercontent.com/93433004/194214727-a118f35d-200b-413d-8215-db920e3fa5b6.png)
+![image](https://user-images.githubusercontent.com/93433004/194214734-93577c94-3b70-4051-bf9b-f3993e804cdd.png)
+![image](https://user-images.githubusercontent.com/93433004/194214739-1abf5dba-f6b5-499d-9ce0-3f7a2fb055dc.png)
+![image](https://user-images.githubusercontent.com/93433004/194214748-81d94e32-5a85-4bd8-8573-42bb39d921de.png)
+![image](https://user-images.githubusercontent.com/93433004/194214756-23396e0d-9485-4132-93a4-7ed59d236a37.png)
+![image](https://user-images.githubusercontent.com/93433004/194214764-452a9243-7d67-479f-8b22-a1c00bebb3dd.png)
+![image](https://user-images.githubusercontent.com/93433004/194214778-7b674d1d-ff20-496f-b2f2-9f64393c58f9.png)
+![image](https://user-images.githubusercontent.com/93433004/194214787-75325fcb-d326-49aa-9453-e24d620b07e4.png)
+![image](https://user-images.githubusercontent.com/93433004/194214793-1fad94c7-8101-4b78-bbde-f89dedd07ddd.png)
+![image](https://user-images.githubusercontent.com/93433004/194214798-aca2228a-1a50-4f5c-9e5f-1f8eb2445883.png)
+![image](https://user-images.githubusercontent.com/93433004/194214817-9cd324a6-a4c1-45b8-b85f-979b18cfb24c.png)
+![image](https://user-images.githubusercontent.com/93433004/194214824-6ea38b45-6456-4df4-8991-65e20d47e570.png)
+![image](https://user-images.githubusercontent.com/93433004/194214837-210d5f73-f7bb-403a-95cb-f783f3a9e5da.png)
