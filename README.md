@@ -32,7 +32,11 @@ DACON에서 주관하는 Anomaly Detection 이상치 탐지 프로젝트에 참�
 ![image](https://user-images.githubusercontent.com/93433004/194214522-1f93bde1-fb29-43eb-aafb-24a41a3cd51b.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214534-2991c518-7d63-4907-a50c-95bae5b2160a.png)
 
-## ②제품의 Class 별 제품의 State 비율
+## ②전체 데이터셋 내 Label 비율
+![image](https://user-images.githubusercontent.com/93433004/194214949-48a64bf8-5e48-469a-b04e-dde75911a884.png)
+해당 이미지는 https://dacon.io/competitions/official/235894/codeshare/4827?page=3&dtype=recent에서 참고했습니다.
+
+## ③제품의 Class 별 제품의 State 비율
 ![image](https://user-images.githubusercontent.com/93433004/194214705-79512d52-b9b9-4dbe-9b8d-234861a803c2.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214719-b3911d1c-1797-43a2-bbe9-3a65a2e068f2.png)
 ![image](https://user-images.githubusercontent.com/93433004/194214727-a118f35d-200b-413d-8215-db920e3fa5b6.png)
