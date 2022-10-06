@@ -13,6 +13,8 @@ DACON에서 주관하는 Anomaly Detection 이상치 탐지 프로젝트에 참�
 
 # MVTec AD Dataset
 
-대회에서 사용된 MVTec AD 데이터셋에 대한 사진 자료입니다. 
+대회에서 사용된 MVTec AD 데이터셋에 대한 사진 자료입니다. 제품의 Class 별로 정리했습니다.
 
 ![image](https://user-images.githubusercontent.com/93433004/194214175-f6c5ab0d-e987-4841-a917-7c370460db89.png)
+![image](https://user-images.githubusercontent.com/93433004/194214278-bc84e267-83bf-4e3d-a161-4482364373c4.png)
+![image](https://user-images.githubusercontent.com/93433004/194214290-1339845a-a6e9-45a2-ae56-ad4498ce46a0.png)
