@@ -11,4 +11,8 @@ DACON에서 주관하는 Anomaly Detection 이상치 탐지 프로젝트에 참�
 "weight_file" 폴더에는 모델의 weight 파일들을 모아두었습니다. 용량 상의 문제로 최종 제출 때 사용한 모델의 weight 파일만 남기고 전부 삭제한 상황입니다. <br>
 "\_\_pycache__" 폴더와 "runs" 폴더는 대회 중 TensorBoard 사용을 시도한 적이 있었는데 그 때 생성된 폴더 같습니다. <br>
 
-# 
+# MVTec AD Dataset
+
+대회에서 사용된 MVTec AD 데이터셋에 대한 사진 자료입니다. 
+
+![image](https://user-images.githubusercontent.com/93433004/194214175-f6c5ab0d-e987-4841-a917-7c370460db89.png)
